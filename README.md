@@ -1,3 +1,5 @@
+<!-- This project is copyrighted by [Md Owais Jamal] and is shared for educational purposes. Unauthorized use is prohibited. -->
+
 Premier Fashion Model Website
 
 Project Overview
